@@ -12,3 +12,5 @@ Estou cursando Engenharia de Software e construindo minha carreira na área de D
 </div>
 <img align="center" alt="Tiago-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 <img align="center" alt="Tiago-Sql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+
+![Snake animation](https://github.com/TiagoBem475/TiagoBem/blob/output/github-contribution-grid-snake.svg)
