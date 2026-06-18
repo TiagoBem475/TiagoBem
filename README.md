@@ -2,7 +2,9 @@
 - 📚Cursando Engenharia de Software
 - 📖Estudando Python
 - 📬Gmail: tbem8768@gmail.com
-
+##
+Estou cursando Engenharia de Software e construindo minha carreira na área de Dados, Analytics e Inteligência de Negócios.
+##
 - <div>
   <a href="https://beacons.ai/rafaballerini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobem&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
